@@ -1,5 +1,5 @@
 # Employee-Payroll-management-System
-This is my 6th semester Software Developement Project 2 (CSE 3200) . Developed using java language, sqlite database
+This is my 3rd semester Software Developement Project 1 (CSE 2100) . Developed using java language, sqlite database
 
 #Demo
 
